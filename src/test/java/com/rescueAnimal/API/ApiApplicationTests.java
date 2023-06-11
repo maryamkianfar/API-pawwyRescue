@@ -1,10 +1,10 @@
-package com.rescueAnimal.App;
+package com.rescueAnimal.API;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AppApplicationTests {
+class ApiApplicationTests {
 
 	@Test
 	void contextLoads() {
