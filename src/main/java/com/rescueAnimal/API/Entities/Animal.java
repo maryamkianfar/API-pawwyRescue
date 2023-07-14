@@ -5,18 +5,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-enum SIZE {
-    SMALL,
-    MEDIUM,
-    BIG
-}
-
-enum TYPE {
-    DOG,
-    CAT,
-    RABBIT,
-    OTHER
-}
 
 @Data
 @AllArgsConstructor
@@ -24,6 +12,19 @@ enum TYPE {
 @NoArgsConstructor
 @Table(name = "animal")
 public class Animal {
+
+	public enum SIZE {
+		SMALL,
+		MEDIUM,
+		BIG
+	}
+	
+	public enum TYPE {
+		DOG,
+		CAT,
+		RABBIT,
+		OTHER
+	}
 
     @Id
     @GeneratedValue(strategy= GenerationType.AUTO)

@@ -15,17 +15,6 @@ public class AssociationController {
 
     @Autowired
     private static AssociationRepository associationRepository;
-    
-
-    @GetMapping("associations/add")
-    public void addAssociations(){
-
-        List<Association> ASSOCIATION = List.of(
-            //new Association(1L, "john", "doe", "john@javawhizz.com"),
-        );
-
-        associationRepository.saveAll(ASSOCIATION);
-    }
 
 	
 	@GetMapping("associations/all")

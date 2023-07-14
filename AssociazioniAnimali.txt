@@ -1,0 +1,27 @@
+Association(001, "RifugiodiAmola", "rifugiodiAmola@gmail.com", +393474647076);
+Association(002, "IsoladelVagabondo", "isoladelvagabondo@gmail.com", +391654329625);
+Association(003, "MondoCarota-ConigliInCercaDiCasa", "mondocarota@gmail.com", +393885740975);
+Association(004, "AssociazioneUnaZampaPerSempreOnlus", "  unazampapersempre@gmail.com", +39376965154)
+
+
+
+Animal(001, "Blu", "2022", TYPE.DOG, SIZE.SMALL, "Vivace ed energico cucciolone di cane", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Blu.jpg");
+Animal(002, "Pina", "2016", TYPE.CAT, SIZE.MEDIUM, "Gatta pacata e solitaria", 002, "C:\Users\zobar\Downloads\ImmaginiAnimali\Pina.jpg");
+Animal(003, "Pepe", "2019", TYPE.CAT, SIZE.SMALL, "Gatto che ama giocare con i suoi simili e con i gomitoli di lana", 002, "C:\Users\zobar\Downloads\ImmaginiAnimali\Pepe.jpg");
+Animal(004, "Casper", "2015", TYPE.DOG, SIZE.MEDIUM, "È un cane estremamente sensibile ed intelligente, elegante e dalla linea perfetta", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Casper.jpg");
+Animal(005, "Whisky", "2021", TYPE.RABBIT, SIZE.SMALL, "È un coniglio timido che ama ricevere tante coccole", 003, "C:\Users\zobar\Downloads\ImmaginiAnimali\Whisky.jpg");
+Animal(006, "Lupo", "2013", TYPE.DOG, SIZE.MEDIUM, "Lupo, detto Lupino, è un cane selvaggio ed affascinante", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Lupo.jpg");
+Animal(007, "Nica", "2023", TYPE.CAT, SIZE.SMALL, "Gatta molto pigra che ama passare tanto tempo sulla poltrona", 002, "C:\Users\zobar\Downloads\ImmaginiAnimali\Nica.jpg");
+Animal(008, "Loky", "2023", TYPE.CAT, SIZE.SMALL, "Gatto giovanissimo e molto curioso di conoscere l'ambiente esterno", 002, "C:\Users\zobar\Downloads\ImmaginiAnimali\Loky.jpg");
+Animal(009, "Yoshi", "2017", TYPE.DOG, SIZE.BIG, "È canE con un carattere forte, perciò non è indicato per chi con i cani è alla prima esperienza", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Yoshi.jpg");
+Animal(010, "Gioia", "2022", TYPE.RABBIT, SIZE.SMALL, "È una coniglietta molto buffa", 003, "C:\Users\zobar\Downloads\ImmaginiAnimali\Gioia.jpg");
+Animal(011, "Silver", "2022", TYPE.DOG, SIZE.BIG, "Pacato e riflessivo", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Silver.jpg");
+Animal(012, "Packy", "2019", TYPE.OTHER, SIZE.MEDIUM, "Pappagallo molto rumoroso e impertinente", 004, "C:\Users\zobar\Downloads\ImmaginiAnimali\Packy.jpg");
+Animal(013, "Macchietta", "2023", TYPE.OTHER, SIZE.SMALL, "Maialino molto carino, ma impaurito dagli altri animali", 004, "C:\Users\zobar\Downloads\ImmaginiAnimali\Macchietta.jpg");
+Animal(014, "Chicco", "2023", TYPE.OTHER, SIZE.SMALL, "Tartaruga dolcissima e molto timida", 004, "C:\Users\zobar\Downloads\ImmaginiAnimali\Chicco.jpg");
+Animal(015, "Fred", "2018", TYPE.OTHER, SIZE.SMALL, "È un furetto molto curioso ed estroverso", 004, "C:\Users\zobar\Downloads\ImmaginiAnimali\Fred.jpg");
+Animal(016, "Xena", "2014", TYPE.DOG, SIZE.MEDIUM, "È molto vitale ed energica, una compagna perfetta per escursioni nel verde", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Xena.jpg");
+Animal(017, "Alice", "2020", TYPE.CAT, SIZE.MEDIUM, "Gatta pantofolaia e una gran golosona", 002, "C:\Users\zobar\Downloads\ImmaginiAnimali\Alice.jpg");
+Animal(018, "Bandito", "2007", TYPE.DOG, SIZE.MEDIUM, "È sempre in cerca di attenzioni e vuole partecipare a qualsiasi attività", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Bandito.jpg");
+Animal(019, "Mora", "2011", TYPE.DOG, SIZE.MEDIUM, "È uno spirito libero", 001, "C:\Users\zobar\Downloads\ImmaginiAnimali\Mora.jpg");
+Animal(020, "Walter", "2020", TYPE.OTHER, SIZE.MEDIUM, "Iguana pacato e riflessivo", 004, "C:\Users\zobar\Downloads\ImmaginiAnimali\Walter.jpg");
