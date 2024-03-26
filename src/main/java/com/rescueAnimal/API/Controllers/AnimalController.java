@@ -13,6 +13,7 @@ import com.rescueAnimal.API.Repositories.AnimalRepository;
 import com.rescueAnimal.API.Repositories.AssociationRepository;
 
 import java.util.List;
+import java.util.ArrayList;
 import java.util.Optional;
 
 @RestController
@@ -69,6 +70,15 @@ public class AnimalController {
 	@GetMapping("/all")
 	public List<Animal> getAllAnimals() throws Exception {
 		return animalsRepository.findAll();
+	}
+
+    @GetMapping("/some")
+	public List<Animal> getSomeAnimals() throws Exception {
+		List<Animal> res = animalsRepository.findAll();
+        List<Animal> myList = new ArrayList();
+        myList.add(res.get(2));
+        myList.add(res.get(7));
+        return myList;
 	}
 
     @GetMapping("/association/{id}")
